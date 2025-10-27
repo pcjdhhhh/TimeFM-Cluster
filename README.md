@@ -12,7 +12,7 @@ This repository is the official implementation of [TimeFM-Cluster: A Framework f
 
 Our experiments were conducted on a computing platform equipped with a 13th Gen Intel(R) Core(TM) i7-13700KF processor (3.40 GHz), 32 GB of RAM, and an NVIDIA GeForce RTX 4090 GPU. The source codes for Chronos and Moment are publicly available through the repositories referenced in their respective publications. In TimeFM-Cluster, we employ the scikit-learn (sklearn) library to perform PCA-based dimensionality reduction, k-means, GMM, and hierarchical clustering, while UMAP is implemented using the umap-learn library https://github.com/lmcinnes/umap. 
 
-The TimeFM-Cluster framework is highly reproducible and ease of use, and the source code will be released publicly after the review process.
+
 
 ## The UCR time series.
 
