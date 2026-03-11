@@ -1,5 +1,5 @@
-# TimeFM-Cluster: A Framework for Time Series Clustering via Foundation Models}
-This repository is the official implementation of [TimeFM-Cluster: A Framework for Time Series Clustering via Foundation Models}] (Under Review)
+# Can Foundation Models Help With Time Series Clustering?
+This repository is the official implementation of [Can Foundation Models Help With Time Series Clustering?] (Under Review)
 
 ## The overall execution process of applying the TimeFM-Cluster algorithm to time series clustering.
 
